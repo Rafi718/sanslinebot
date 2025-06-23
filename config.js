@@ -50,6 +50,3 @@ delete require.cache[file];
 require(file);
 });
 
-
-//base yoshx
-//recode Rafael
